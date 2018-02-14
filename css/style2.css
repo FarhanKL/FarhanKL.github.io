@@ -1,0 +1,22 @@
+h1	{
+	color:#cc99ff;
+	margin-left: 15px;
+}
+
+h2	{color:#33ccff;}
+
+#nav	{
+	border:3px dashed purple;
+	margin: 10px 5px 15px 20px;
+	padding: 10px 10px 10px 10px;
+}
+
+#nav a {
+	text-decoration: none;
+	color:#668cff;
+}
+
+.recommended { color: magenta;
+	font-family: Arial;
+	margin-left: 15px
+}
